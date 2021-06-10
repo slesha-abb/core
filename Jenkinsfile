@@ -1,6 +1,6 @@
-{
 pipeline{
-
+  stage{
+   steps{
 }
-
+}
 }
